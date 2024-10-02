@@ -1,0 +1,4 @@
+socket==3.10.0
+pickle==4.0
+pycryptodome==3.11.0
+sympy==1.9
